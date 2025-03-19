@@ -111,14 +111,6 @@ Este projeto é um sistema web completo para o gerenciamento de eventos, permiti
 4. Ao se inscrever, os participantes recebem um bilhete digital e um e-mail de confirmação.
 5. Após a data do evento, participantes de eventos que oferecem certificado podem baixar seu certificado em PDF.
 
-## Contribuição
-
-Contribuições são bem-vindas!  
-1. Faça um fork deste repositório.
-2. Crie uma branch para sua feature ou correção: `git checkout -b minha-feature`
-3. Realize seus commits: `git commit -m 'Adiciona nova feature'`
-4. Envie a branch: `git push origin minha-feature`
-5. Abra um Pull Request
 
 *Desenvolvido com dedicação para atender aos requisitos propostos e oferecer uma experiência completa de gerenciamento de eventos.*
-```
+
