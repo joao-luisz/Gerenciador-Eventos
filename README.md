@@ -120,11 +120,5 @@ Contribuições são bem-vindas!
 4. Envie a branch: `git push origin minha-feature`
 5. Abra um Pull Request
 
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
----
-
 *Desenvolvido com dedicação para atender aos requisitos propostos e oferecer uma experiência completa de gerenciamento de eventos.*
 ```
