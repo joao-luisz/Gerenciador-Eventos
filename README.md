@@ -1,6 +1,3 @@
-Segue o conteúdo completo do arquivo `README.md`:
-
-```markdown
 # Gerenciamento de Eventos com Emissão de Certificado
 
 Este projeto é um sistema web completo para o gerenciamento de eventos, permitindo o cadastro de participantes e organizadores, divulgação dos eventos com informações detalhadas e emissão de bilhete digital. Além disso, para eventos que possuam a opção de certificado, o sistema libera a emissão do certificado em PDF após a realização do evento.
@@ -49,7 +46,7 @@ Este projeto é um sistema web completo para o gerenciamento de eventos, permiti
 1. Navegue até a pasta do backend:
    ```bash
    cd caminho/do/projeto/backend
-   ```
+
 2. Instale as dependências:
    ```bash
    npm install
